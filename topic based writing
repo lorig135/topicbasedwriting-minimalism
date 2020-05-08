@@ -1,0 +1,22 @@
+Per our company-wide direction to make our products easier to use, especially for the needs of our newer customers, 
+we're moving toward topic-based writing, minimalism, and chunking. This is not a huge undertaking; it just requires
+a shift in focus from writing about the topic to writing about the topic within the framework of the user's needs.
+
+# Topic-Based Writing
+Keep the following in mind:
+Who is the audience?
+What do they need to do or learn?
+How do our products help them do something or learn something? 
+
+Topic-based writing is comprised of three elements: Concepts, Tasks, and References. 
+
+## Concepts
+Concepts explain what something is, such as an element of our products or how it works (the Admin UI, how IGA manages and reduces user risk). One noteworthy model for writing about concepts is Wikipedia. 
+
+### Writing About Concepts
+
+Title: Use the imperative: Set Up Access Management, Upgrade from 6.5 to 7.0
+Paragraph: 2-3 sentences (or however many are needed) for the user to understand the concept. Use a collapse for information
+that is important, but not critical. 
+
+![alt text]
