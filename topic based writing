@@ -7,6 +7,7 @@ Keep the following in mind:
 Who is the audience?
 What do they need to do or learn?
 How do our products help them do something or learn something? 
+What natural language would they use to search for information about our products? 
 
 Topic-based writing is comprised of three elements: Concepts, Tasks, and References. 
 
@@ -14,9 +15,25 @@ Topic-based writing is comprised of three elements: Concepts, Tasks, and Referen
 Concepts explain what something is, such as an element of our products or how it works (the Admin UI, how IGA manages and reduces user risk). One noteworthy model for writing about concepts is Wikipedia. 
 
 ### Writing About Concepts
-
 Title: Use the imperative: Set Up Access Management, Upgrade from 6.5 to 7.0
 Paragraph: 2-3 sentences (or however many are needed) for the user to understand the concept. Use a collapse for information
 that is important, but not critical. 
 
 ![alt text]
+
+
+## Tasks
+Steps or actions taken to accomplish a goal or task, usually in a numbered list. 
+Ex. Installing the CDM on a cluster, Authenticating using 2FA
+Model: Cookbooks
+
+### Writing About Tasks
+Title: Use the imperative: Set Up Access Management, Upgrade from 6.5 to 7.0
+Paragraph: 2-3 sentences (or however many are needed) for the user to understand the concept. Use a collapse for information
+that is important, but not critical.
+
+Numbered steps: Each sentence or sentence fragment should be a sequential step that helps the user complete a task. 
+
+You can also use graphics or video snippets to explain the sequence of steps to complete a task.
+
+
